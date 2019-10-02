@@ -6,23 +6,22 @@ chrome.browserAction.onClicked.addListener(activeTab => {
     };
     let choice = result.favoriteAnimal;
 
-    let url, key;
+    let animal;
+
     if (choice === "any") {
       let animals = Object.keys(request);
       let random = animals[(animals.length * Math.random()) << 0];
-      url = request[random]["url"];
-      key = request[random]["key"];
+      animal = request[random];
     } else {
-      url = request[choice]["url"];
-      key = request[choice]["key"];
+      animal = request[choice];
     }
 
-    fetch(url)
+    fetch(animal["url"])
       .then(resp => {
         return resp.json();
       })
       .then(data => {
-        chrome.tabs.create({ url: data[key] });
+        chrome.tabs.create({ url: data[animal["key"]] });
       });
   });
 });
