@@ -1,6 +1,6 @@
 {
   "name": "Random Animal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cheer you up by a random animal photo!",
   "background": {
     "scripts": ["background.js"]
