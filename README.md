@@ -14,3 +14,4 @@ Summon a cute species to your chrome tab
 - [Icon](https://www.iconfinder.com/icons/3204705/animal_domestic_pet_wild_zoo_icon) by [emojisou.com](https://www.iconfinder.com/emojious)
 - Random dog photos by [https://random.dog](https://random.dog)
 - Random cat photos by [http://aws.random.cat](http://aws.random.cat)
+- Random goat photos by [https://placegoat.com](https://placegoat.com)
