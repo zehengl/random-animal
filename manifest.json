@@ -7,22 +7,22 @@
   },
   "browser_action": {
     "default_icon": {
-      "16": "icon16.png",
-      "32": "icon32.png",
-      "48": "icon48.png",
-      "64": "icon64.png",
-      "128": "icon128.png",
-      "256": "icon256.png"
+      "16": "image/icon16.png",
+      "32": "image/icon32.png",
+      "48": "image/icon48.png",
+      "64": "image/icon64.png",
+      "128": "image/icon128.png",
+      "256": "image/icon256.png"
     },
     "default_title": "Summon a cute species!"
   },
   "icons": {
-    "16": "icon16.png",
-    "32": "icon32.png",
-    "48": "icon48.png",
-    "64": "icon64.png",
-    "128": "icon128.png",
-    "256": "icon256.png"
+    "16": "image/icon16.png",
+    "32": "image/icon32.png",
+    "48": "image/icon48.png",
+    "64": "image/icon64.png",
+    "128": "image/icon128.png",
+    "256": "image/icon256.png"
   },
   "options_page": "options.html",
   "permissions": ["tabs", "storage"],
