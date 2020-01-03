@@ -1,11 +1,11 @@
 # random-animal
 
-Summon a cute species to your chrome tab
-
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/zehengl/random-animal)
 ![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/zehengl/random-animal/0.2.0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/zehengl/random-animal)
 [![time tracker](https://wakatime.com/badge/github/zehengl/random-animal.svg)](https://wakatime.com/badge/github/zehengl/random-animal)
+
+A chrome extension to cheer you up by random animal photos
 
 ## Steps
 
