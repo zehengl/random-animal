@@ -17,10 +17,6 @@ A chrome extension to cheer you up by random animal photos
 - click `Load unpacked` and select `random-animal` folder (make sure `Developer Mode` is on)
 - Enjoy the cute species by clicking ![icon](image/icon32.png)
 
-<hr>
-
-<sup>
-
 ## Credits
 
 - [Icon](https://www.iconfinder.com/icons/3204705/animal_domestic_pet_wild_zoo_icon) by [emojisou.com](https://www.iconfinder.com/emojious)
@@ -30,5 +26,3 @@ A chrome extension to cheer you up by random animal photos
 - Random cat photos by [http://aws.random.cat](http://aws.random.cat)
 
 - Random goat photos by [https://placegoat.com](https://placegoat.com)
-
-</sup>
